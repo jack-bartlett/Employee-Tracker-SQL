@@ -1,1 +1,1 @@
-# Empolyee-Tracker-SQL
+# Employee-Tracker-SQL

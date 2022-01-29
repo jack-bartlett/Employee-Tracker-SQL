@@ -55,26 +55,19 @@ module.exports = {
             type: "input",
             message: "What is your employee's last name?",
         },
-
-        {
-			name: "department",
-			type: "list",
-			message: "What is the employee's department?",
-			choices: "departmentArray",
-		},
 		
 		{
 			name: "role",
 			type: "list",
 			message: "Choose employee's job position",
-			choices: "roleArray",
+			choices: [],
 		},
 		
 		{
 			name: "manager",
 			type: "list",
 			message: "Choose the manager of this employee:",
-			choices: "managerArray",
+			choices: [],
 		},
     ],
 
@@ -95,7 +88,7 @@ module.exports = {
 			type: "list",
 			name: "departmentId",
 			message: "Which department is this in?",
-			choices: "departmentChoices",
+			choices: [],
 		},
     ],
 
@@ -104,14 +97,14 @@ module.exports = {
 			name: "update",
 			type: "list",
 			message: "Which employee's role would you like to update?:",
-			choices: "employees",
+			choices: [],
 		},
 	
 		{
 			name: "role",
 			type: "list",
 			message: "What is the employee's new role?",
-			choices: "job",
+			choices: [],
 		},
     ],
         

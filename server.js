@@ -3,14 +3,6 @@ const prompt = require("./config/prompts");
 const connection = require("./config/connection");
 const { addRolePrompt } = require("./config/prompts");
 
-// const employee = require('./constructor/employee');
-// const role = require('./constructor/role');
-// const department = require('./constructor/department');
-
-// const PORT = process.env.PORT || 3001;
-// const app = express();
-
-
 
 console.log('Welcome to Your Employee Tracking System');
 mainMenu(); 

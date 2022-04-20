@@ -8,21 +8,17 @@
 
   * [Usage](#usage)
 
- * [License](#license) 
-
-  * [Contribution](#contribution)
-
-  * [Tests](#tests)
+  * [Video](#video)
 
   * [License](#license)
 
   * [Questions](#questions)
 
 ## Title
-Employee Tracker
+Department Managment Employee Tracker
 
 ## Description
-Allows you to create, easily view, interact with, and manage a company's employee information stored in a database.
+Allows you to create, easily view, and manage a company's employee information stored in a database to help the logistics within a company. A user is able to add departments within a company, add roles within those departments, and add employees within those roles. Relationships are related using SQL. This app runs in the CLI.
 
 ## Installation
 Install Node.js, Inquirer, and MySQL.
@@ -30,16 +26,13 @@ Install Node.js, Inquirer, and MySQL.
 ## Usage 
 Run Node.js and follow the menu prompts
 
-## Contribution
-N/A
-
-## Tests
-N/A
+## Video
+https://youtu.be/AEEuYaaC98g
 
 ## License
     This project is licensed under the MIT license.
     
-https://youtu.be/AEEuYaaC98g
+
 
 
 ## Questions 

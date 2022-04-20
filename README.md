@@ -31,9 +31,10 @@ https://youtu.be/AEEuYaaC98g
 
 ## License
     This project is licensed under the MIT license.
-    
 
-
+![MySQL-Employee-Tracker-1](https://user-images.githubusercontent.com/90886034/164122726-38ffaebe-5e68-4201-989c-21aeb66c0c51.png)
+![MySQL-Employee-Tracker-2](https://user-images.githubusercontent.com/90886034/164122725-3f9023b8-8137-47cc-817e-c795e739e3ca.png)   
+![MySQL-Employee-Tracker-3](https://user-images.githubusercontent.com/90886034/164122723-4e846366-3036-4edf-afc5-7590b13bc6ec.png)
 
 ## Questions 
 
